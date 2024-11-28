@@ -36,7 +36,7 @@ GUI Development: Swing, JavaFX
 📈 GitHub Stats
 
 📫 Connect with Me
-🔗 LinkedIn - sanjay-kumar119
+🔗 LinkedIn - https://www.linkedin.com/in/sanjay-kumar119/
 ✉️ Email - sanjaypach89@gmail.com
 💡 I’m always excited to collaborate on interesting projects, discuss best practices, and improve my skills alongside like-minded developers. If you’re looking for a Java developer to join your team or collaborate on open-source projects, let’s connect! 🚀
 
